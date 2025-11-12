@@ -18,3 +18,11 @@
     margin: 0;
     text-align: center;
  }
+
+ .intro {
+   background-color: #829891;
+   color: #cea18b;
+   margin: 16px;
+   padding: 24px;
+   font-size: 2rem;
+ }
